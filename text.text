@@ -1,0 +1,12 @@
+1 Task: Implementing a Cloths list Application with CRUD operations with custom hook and dynamic form.
+
+2 Task: Create a FormData components, the form contains input fields like  Cloth Name, Cloth Id, Price, Quantity, Description, a select menu that contains three colors as options like "red","blue","green" , add terms and condition with checkbox, add date field Manufacture date and add three radio button of Size "M", "L" and "XL".
+
+3 Task: When submit the form data it should be stored in local-storage.
+
+4 Task: There should be another component called ClothTable that contain the ClothRow component.
+
+5 Task: ClothRow contains the info of cloths in a table row data.
+6 Task: Integrate user interactions to add, delete and data should be stored in local-storage.
+
+7 Task: Optional task: Make a custom hook named useForm for form data
